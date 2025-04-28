@@ -121,6 +121,9 @@ python fake_keylogger.py
 ```
 Your detector will immediately detect and report it.
 
+![image](https://github.com/user-attachments/assets/fd3df4a9-6395-4037-9b37-e23b17489fba)
+
+
 ## Testing with a Fake File Modifier
 Another way to simulate suspicious behavior is to create a script that frequently modifies a file — similar to how some keyloggers save logs.
 
